@@ -1,5 +1,5 @@
 // Name of the package
-name := "main/scala/avg_age"
+name := "SparkJob"
 // Version of our package
 version := "1.0"
 // Version of Scala
